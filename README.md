@@ -37,8 +37,6 @@ This repository contains a Power BI dashboard that provides an in-depth analysis
   - **Same Day** shipping was less popular but had a higher margin per sale.
 
 ### Files
-- **Sales Data Forecasting Analysis.pdf**: Detailed Power BI report showcasing visualizations and insights.
-### Files
 - [Sales Data Forecasting Analysis.pdf](Sales%20Data%20Forecasting%20Analysis.pdf): Detailed Power BI report showcasing visualizations and insights.
 ### Usage
 1. Download the `Sales Data Forecasting Analysis.pdf` to explore the detailed visualizations.
